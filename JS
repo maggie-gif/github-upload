@@ -1,0 +1,30 @@
+// Enjoy JavaScript with ES6 features :)
+
+const getHelloWorldStr = () => "Hello, world!"
+
+console.log(getHelloWorldStr());
+console.log("hello world")
+console.log("I am Maggie")
+
+// comments
+/*Thank you so much for continuing to read such boring stuff.*/
+// variables in JavaScript.
+console.log
+("var myName");
+
+// Storing values with Assignments.
+console.log
+("var myVar");
+("myVar = 5");
+("var myVar");
+("var myVar");
+("a = 7");
+// assigning value of a to b
+
+console.log
+var a;
+a = 7;
+var b;
+b = a;
+b = 7;
+
